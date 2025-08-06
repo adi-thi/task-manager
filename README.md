@@ -14,7 +14,8 @@
 
 ---
 
-## 🖥️ Live Preview
+## 🖥️ Live Preview 
+https://adi-thi.github.io/task-manager/
 
 
 
